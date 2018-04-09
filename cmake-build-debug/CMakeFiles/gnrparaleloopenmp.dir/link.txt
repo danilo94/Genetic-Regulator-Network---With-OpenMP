@@ -1,0 +1,1 @@
+/usr/bin/c++    -fopenmp -g   CMakeFiles/gnrparaleloopenmp.dir/main.cpp.o  -o gnrparaleloopenmp 
